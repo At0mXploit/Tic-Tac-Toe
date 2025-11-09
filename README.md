@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-##What is Minimax?
+## What is Minimax?
 
 - Minimax is a recursive backtracking algorithm that explores all possible game states to find the optimal move.
 
@@ -121,3 +121,4 @@ function minimax(newBoard, player) {
 To optimize it you can also add code to prune branches.
 
 ---
+
