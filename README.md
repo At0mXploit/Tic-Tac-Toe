@@ -118,7 +118,8 @@ function minimax(newBoard, player) {
 
 ![Tic Tac Toe Board](minimax.png)
 
-To optimize it you can also add code to prune branches.
+To optimize it you can also add code to prune branches of unecessary ones.
 
 ---
+
 
