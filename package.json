@@ -1,0 +1,23 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "description": "- Minimax is a recursive backtracking algorithm that explores all possible game states to find the optimal move.",
+  "main": "minimax.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/At0mXploit/Tic-Tac-Toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/At0mXploit/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/At0mXploit/Tic-Tac-Toe#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
